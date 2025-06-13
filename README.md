@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lisien</h1>
 <p align="center">
-A Computer Science undergraduate, who is passionate about coding ( ､◕◡◕)､＿/
+A Computer Science graduate, who is passionate about coding ( ､◕◡◕)､＿/
 </p>
 
 <h3>Languages/Frameworks Used:</h3>
