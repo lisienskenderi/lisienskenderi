@@ -42,7 +42,7 @@ A Computer Science undergraduate, who is passionate about coding ( ､◕◡◕)
     <!-- Postgresql -->
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <!-- Clickhouse -->
-    <a href="https://www.clickhouse.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/c/clickhouse.svg" alt="clickhouse" width="40" height="40"/> </a> 
+    <a href="https://www.clickhouse.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/clickhouse/clickhouse-original.svg" alt="clickhouse" width="40" height="40"/> </a> 
 </p>
 
 <!-- Don't know where to put this -->
