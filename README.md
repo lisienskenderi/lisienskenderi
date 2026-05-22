@@ -59,7 +59,7 @@ A Computer Science graduate, who is passionate about coding ( ､◕◡◕)､�
 <p><a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a> <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/> </a> <a href="https://getfedora.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40"/> </a></p>
 
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lisienskenderi&show_icons=true&locale=en&layout=compact&theme=github_dark&border_color=ffffff" alt="List of my most used programming languages" />
-<img height="160em"src="https://github-readme-stats.vercel.app/api?username=lisienskenderi&show_icons=true&locale=en&theme=github_dark&border_color=ffffff" alt="My github stats" />
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lisienskenderi&layout=compact&theme=github_dark&border_color=ffffff" alt="List of my most used programming languages" />
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lisienskenderi&show_icons=true&theme=github_dark&border_color=ffffff" alt="My github stats" />
 </div>
 
